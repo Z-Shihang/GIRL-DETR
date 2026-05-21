@@ -41,7 +41,7 @@ cd GIRL-DETR
 
 ### 2. Setup Environment
 Requirements:
-- CUDA 12.4 compatible GPU (CPU-only version also supported)
+- CUDA 12.4 compatible GPU
 - Python $\ge$ 3.10
 - Conda package manager
 
