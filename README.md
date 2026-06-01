@@ -1,13 +1,13 @@
 <div align="center">
 
-# GIRL-DETR: Gradient-Isolated Reinforcement Learning for DETR-based Video Moment Retrieval
+# GIRL-DETR: Gradient-Isolated Reinforcement Learning for Video Moment Retrieval
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10](https://img.shields.io/badge/Python-3.10-green.svg)](https://www.python.org/)
 [![PyTorch 12.4](https://img.shields.io/badge/PyTorch-CUDA_12.4-ee4c2c.svg)](https://pytorch.org/)
 [![Paper](https://img.shields.io/badge/arXiv-Coming_Soon-b31b1b.svg)](https://arxiv.org/)
 
-> Official PyTorch implementation of **"GIRL-DETR: Gradient-Isolated Reinforcement Learning for DETR-based Video Moment Retrieval"** (Under Review).
+> Official PyTorch implementation of **"GIRL-DETR: Gradient-Isolated Reinforcement Learning for Video Moment Retrieval"** (Under Review).
 
 [**[Paper (Coming Soon)]**]() | [**[Checkpoints (Coming Soon)]**]() | [**[Dataset]**](#-dataset-preparation)
 
