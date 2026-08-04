@@ -151,7 +151,7 @@ GIRL-DETR/
 
 This code is based on [moment-detr](https://github.com/jayleicn/moment_detr), [QD-DETR](https://github.com/wjun0830/QD-DETR), [CG-DETR](https://github.com/wjun0830/CGDETR), [detr](https://github.com/facebookresearch/detr), [VideoLights](https://github.com/dpaul06/VideoLights) and [TVRetrieval XML](https://github.com/jayleicn/TVRetrieval). 
 
-We also utilized resources from [LAVIS](https://github.com/salesforce/LAVIS), [CLIP](https://github.com/openai/CLIP) and [SlowFast](https://github.com/facebookresearch/SlowFast). We sincerely thank the authors for their awesome open-source contributions!
+We also utilized resources and features from [LAVIS](https://github.com/salesforce/LAVIS), [BLIP](https://github.com/salesforce/BLIP), [InternVideo2](https://github.com/OpenGVLab/InternVideo), [CLIP](https://github.com/openai/CLIP) and [SlowFast](https://github.com/facebookresearch/SlowFast). We sincerely thank the authors for their awesome open-source contributions!
 
 ## ✒️ Citation
 
